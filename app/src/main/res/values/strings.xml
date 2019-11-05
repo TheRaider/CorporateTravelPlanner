@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CorporateTravelPlanner</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="employee_count_prompt">Choose Employee Count</string>
+
+    <string-array name="employee_count">
+        <item>0-1000</item>
+        <item>1001-5000</item>
+        <item>5001-15000</item>
+        <item>15001-35000</item>
+        <item>35001-65000</item>
+        <item>>65000</item>
+    </string-array>
+</resources>
